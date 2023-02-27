@@ -4,7 +4,7 @@ const hoursEl = document.getElementById('hours');
 const minsEl = document.getElementById('minutes');
 const secondsEl = document.getElementById('seconds');
 
-const quitting = '1 Feb 2024';
+const quitting = '27 July 2023';
 
 function countdown() {
   const quittingDate = new Date(quitting);
